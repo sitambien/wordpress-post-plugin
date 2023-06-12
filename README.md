@@ -1,6 +1,11 @@
 # wordpress-post-plugin
 Plugin sencillo para postear con peticiones post
 
+endpoint
+
+posts/v1/crear
+
+
 Postman info
 
 Header:
